@@ -209,7 +209,7 @@
       "SelectedMotorType": null
     },
     "IsValidGyroCANbus": true,
-    "VerticalTrackSizeInches": 25.5,
+    "VerticalTrackSizeInches": 16.5,
     "HorizontalTrackSizeInches": 21.5,
     "WheelRadiusInches": 4.0,
     "IsLeftSideInverted": false,
